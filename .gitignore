@@ -1,8 +1,10 @@
 ./host-app/node_modules
+./host-app/.next
 ./remote-app-next-js/node_modules
 ./remote-app-next-js/.next
+
 ./remote-app-webpack/node_modules
-./remote-app-webpack/.next
+
 
 
 
